@@ -101,7 +101,7 @@ public class vector_compression {
         test.print_imgVector();
         test.CalSubVecNum();
         test.mainVecAvg();
-        test.printMainAvrVec();
+//        test.printMainAvrVec();
 //        int [][] x=new int[2][2];
 //        Vector<int[][]> v = new Vector<>(200);
 //        v.add(x);
